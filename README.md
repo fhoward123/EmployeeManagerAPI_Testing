@@ -61,6 +61,9 @@ Basic API documentation is as follows:
 * DELETE: will delete an existing employee when the request is sent to api/employees/{employeeId}
 * Any request will return an array of the current employees in the database.
 
+*Note*: A postman collection with functional API requests for this project has been added to the repository
+    `Employee Manager.postman_collection.json`.
+
 ## Disclosure
 
 This is not an ACTUAL business project - but a project plan to assist Quality Assurance Engineers in their training.  Full documentation on the assignment requirements is available in JIRA.
