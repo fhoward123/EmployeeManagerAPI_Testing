@@ -6,11 +6,7 @@
   "directories": {
     "test": "tests"
   },
-  "dependencies": {
-    "axios": "^0.18.0"
-  },
   "devDependencies": {
-    "axios": "^0.18.0",
     "xhr2": "^0.1.4"
   },
   "scripts": {
